@@ -1,5 +1,2 @@
-ss
-B
-C
-C
-This alx-system_engineer
+## ALx
+This is alx shell course
