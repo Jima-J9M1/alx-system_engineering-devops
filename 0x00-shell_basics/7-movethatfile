@@ -1,1 +1,2 @@
-VimCrypt~03!Î}{F§XŠŸ7ìg—A	{ö7ü&“Y)Øú—G¸xË…~\*€|f&!¦šU2w&t‰R–õ´øz
+#!/bin/bash
+mv /tmp/betty /tmp/my_first_directory
