@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd is the shows the current directory path that start from the beginning to the current path. It helps to know where you at any time
+echo "pwd"
