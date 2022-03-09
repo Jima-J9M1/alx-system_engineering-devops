@@ -1,6 +1,6 @@
-## Alias command and Shell Variable
- # Alias
+# Alias command and Shell Variable
+ ## Alias
     Alias to reference a command
- # Shell Variabel  and expression
+ ## Shell Variabel  and expression
     Using shell evalute mathematical problems
     
